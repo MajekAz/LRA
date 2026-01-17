@@ -1,0 +1,8 @@
+{
+  "name": "LRA Consulting Redesign",
+  "description": "A premium, high-converting consultant website for LRA Consulting featuring modern strategic UI/UX, results-driven copy, and interactive components.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
