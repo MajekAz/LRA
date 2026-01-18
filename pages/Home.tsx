@@ -74,7 +74,7 @@ const Home: React.FC = () => {
             <div className="flex gap-12 pt-2">
               <div className="space-y-1">
                 <div className="text-brand-dark font-black text-xs uppercase tracking-widest">Global Reach</div>
-                <div className="text-gray-400 text-sm">EU • UK • USA • APAC</div>
+                <div className="text-gray-400 text-sm">EU • UK • APAC</div>
               </div>
               <div className="space-y-1">
                 <div className="text-brand-dark font-black text-xs uppercase tracking-widest">Certifications</div>
