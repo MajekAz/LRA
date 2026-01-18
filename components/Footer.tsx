@@ -9,7 +9,9 @@ const Footer: React.FC = () => {
     <footer className="bg-brand-dark text-white pt-20 pb-10">
       <div className="max-w-7xl mx-auto px-6 grid grid-cols-1 md:grid-cols-4 gap-12 border-b border-white/10 pb-16">
         <div className="space-y-6">
-          <Logo variant="light" />
+          <div className="flex flex-col">
+            <Logo variant="light" />
+          </div>
           <p className="text-blue-100/60 max-w-xs text-sm leading-relaxed">
             Empowering visionary enterprises with strategic clarity and operational excellence. 
             Trusted by global leaders to deliver values that differentiate.
@@ -56,7 +58,7 @@ const Footer: React.FC = () => {
             </li>
             <li className="flex items-center space-x-3">
               <span className="text-brand-gold">{ICONS.mapPin}</span>
-              <span>Gothenburg • London • New York</span>
+              <span>Gothenburg • London</span>
             </li>
           </ul>
         </div>

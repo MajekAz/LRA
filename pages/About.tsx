@@ -39,8 +39,8 @@ const About: React.FC = () => {
               Values that <br/>
               <span className="text-brand-gold italic">Differentiate.</span>
             </h1>
-            <p className="text-xl md:text-2xl text-blue-100 font-normal leading-relaxed max-w-2xl mx-auto opacity-90">
-              Founded on the principle of structural integrity, LRA Strategy & Management is a multidisciplinary advisory hub designed to navigate the complexities of global market entry and operational performance.
+            <p className="text-xl md:text-2xl text-blue-100 font-normal leading-relaxed max-w-3xl mx-auto opacity-90">
+              Founded on the principle of structural integrity, LRA Consulting Management & Strategic Advisory is a multidisciplinary advisory hub designed to navigate the complexities of global market entry and operational performance.
             </p>
             <div className="flex flex-col sm:flex-row gap-8 pt-2 justify-center">
               <div className="space-y-2 text-center sm:text-left">

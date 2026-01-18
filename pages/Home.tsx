@@ -65,7 +65,7 @@ const Home: React.FC = () => {
             </div>
             <div className="space-y-6 text-gray-600 text-lg font-normal leading-relaxed">
               <p>
-                Founded on the principle of structural integrity, LRA Consulting is a multidisciplinary advisory firm headquartered in Gothenburg, serving as a strategic hub for global market entry and operational excellence.
+                Founded on the principle of structural integrity, LRA Consulting Management & Strategic Advisory is a multidisciplinary advisory firm headquartered in Gothenburg, serving as a strategic hub for global market entry and operational excellence.
               </p>
               <p className="border-l-4 border-brand-gold pl-8 italic text-brand-blue/80 py-2">
                 "Our purpose is simple: to deliver values that differentiate our clients and create a creative, resilient working world."
